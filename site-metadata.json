@@ -64,13 +64,6 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "Medium",
-                "url": "https://medium.com/@tidbitsjs",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": true
             }
         ]
     },
