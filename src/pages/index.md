@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Sujata.'
-    content: |2
-       A complex human being with a curious mind hanging out in Tech World with a willingness to bring change.
+    content: >
+      A complex human being with a curious mind hanging out in Tech World with a
+      willingness to cause change.
   - section_id: about
     type: section_content
     title: About
