@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Sujata.'
-    content: >
-      An open source contributor with some developer skills, with a willingness
-      to bring change in life. 
+    content: |2
+       A complex human being with a curious mind hanging out in Tech World with a willingness to bring change.
   - section_id: about
     type: section_content
     title: About
