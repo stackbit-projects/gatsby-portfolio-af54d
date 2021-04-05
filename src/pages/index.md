@@ -15,7 +15,8 @@ sections:
       Coming from a village resided in Maharashtra, India, I am passionate about
       the things that amaze me including the first-ever mother box to advance
       the technology of AGI. Finding my way through the circuits of tech, I
-      settled on the fancy web development idea.
+      settled on the fancy web development idea. Utilizing the ton of info out
+      there on Internet, I develop websites with love.
     actions:
       - label: Contact Me
         url: /contact
