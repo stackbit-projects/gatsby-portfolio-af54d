@@ -27,7 +27,7 @@ sections:
     posts_number: 4
     actions:
       - label: View Projects
-        url: blog/index.html
+        url: blog
         style: button
 seo:
   title: Stackbit Fresh Theme
